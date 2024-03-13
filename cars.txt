@@ -1,0 +1,17 @@
+yuvarlak kenarlı kutular(border-radius) oluşturmak
+border-radius:  40px/10px;
+
+
+transition Geçiş Efektleri
+transition: ease 0.4s;
+
+
+border-radius: kenraları yuvarla
+
+display-flex: divleri yan yana koyar
+aling-item [center]: buna bağlı oralar
+
+eğer buton özelliğini tekrarlamak isiyorsan her şeyini belirt
+ border-radius: 20px;
+ border: 1px solid red;
+ border-radius: 20px;
